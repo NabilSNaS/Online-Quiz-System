@@ -1,0 +1,6 @@
+D:\program\Online Quize System\Online Quize System\bin\Online Quize System.dll.config
+D:\program\Online Quize System\Online Quize System\bin\Online Quize System.dll
+D:\program\Online Quize System\Online Quize System\bin\Online Quize System.pdb
+D:\program\Online Quize System\Online Quize System\obj\Debug\Online Quize System.dll
+D:\program\Online Quize System\Online Quize System\obj\Debug\Online Quize System.pdb
+D:\program\Online Quize System\Online Quize System\obj\Debug\Online Quize System.csprojResolveAssemblyReference.cache
